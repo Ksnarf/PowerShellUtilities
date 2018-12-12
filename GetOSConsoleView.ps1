@@ -1,3 +1,4 @@
+Import-Module ActiveDirectory
 $Server = "remotehost" 
 $OS = Get-WMIObject -class Win32_OperatingSystem -ComputerName $Server
 
