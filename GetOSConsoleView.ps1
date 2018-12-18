@@ -1,4 +1,3 @@
-Import-Module ActiveDirectory
 Function OSVersion {
 $Server = "remotehost" 
 $OS = Get-WMIObject -class Win32_OperatingSystem -ComputerName $Server
