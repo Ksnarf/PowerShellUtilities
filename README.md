@@ -1,1 +1,1 @@
-# PowerShellUtilities
+This Project is a collection of files that I use in Server management covering a wide range of items from asset management to package deployment, disaster recovery and day-to-day operations. I offer these to any and all that need them and welcome updates and changes as the changes to Server OS's change. 

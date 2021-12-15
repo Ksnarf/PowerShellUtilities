@@ -1,0 +1,1 @@
+(Get-ADUser -Filter * -SearchBase "OU=Users,OU=SFO,OU=STUDIO_SITES,DC=wbiegames,DC=com" -Properties EmployeeNumber | Where-Object {$_.Enabled -eq $true} | Select-Object SAMAccountName,EmployeeNumber).count
