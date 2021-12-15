@@ -1,0 +1,1 @@
+This is a collection of .ps1 files and utilities that I've found and modified for my own purposes.. the copyright and owners are kept in the files if they were there and if your file is listed here and you wish it removed,please let me know
